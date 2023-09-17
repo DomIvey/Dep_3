@@ -1,7 +1,4 @@
-## Deployment instructions Link:
--  Link to instructions: https://github.com/kura-labs-org/c4_deployment-3/blob/main/Deployment-instructions.md
-
-DEPLOYMENT 3: 
+<P>DEPLOYMENT 3: 
 Demonstrate your ability to create a fully automated Elastic Beanstalk deployment.
 
 Purpose:
