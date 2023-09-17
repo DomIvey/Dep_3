@@ -1,4 +1,4 @@
-<P>DEPLOYMENT 3: 
+<p>DEPLOYMENT 3: 
 Demonstrate your ability to create a fully automated Elastic Beanstalk deployment.
 
 Purpose:
